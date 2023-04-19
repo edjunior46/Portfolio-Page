@@ -97,7 +97,7 @@ section {
 }
 
 #introSection .content #introImg {
-    background-image: url(style/img/profile.png);
+    background-image: url(/style/img/profile.png);
     background-size: 90%;
     background-repeat: no-repeat;
     background-position: center;
